@@ -1,0 +1,51 @@
+The Skills I Picked Up
+
+Here’s the breakdown of what I actually learned in this whole journey:
+
+1. Alert Monitoring and Triage
+I got good at watching and sorting through security alerts from a ton of sources. My job was to figure out which ones were urgent and needed escalation.
+Tools: Splunk, ELK.
+
+2. Incident Response
+I learned how to investigate possible breaches, figure out what happened, and take action to contain or stop the threat.
+Tools: Splunk, ELK, Redline, Volatility, Velociraptor.
+
+3. Network Traffic Analysis
+I got comfortable breaking down network traffic and finding weird patterns that signaled attacks like malware, data leaks, or DDoS.
+Tools: Wireshark, Zeek, NetworkMiner, Snort, TShark.
+
+4. Log Analysis
+I dug through logs from firewalls, servers, and endpoints to spot anything shady happening inside a network.
+Tools: Splunk, Brim, ELK, Wazuh, Osquery.
+
+5. Digital Forensics and Incident Response (DFIR)
+I learned how to pull and analyze memory, disk, and registry data to investigate incidents and track down attackers.
+Tools: Autopsy, Redline, KAPE, Velociraptor, Volatility.
+
+6. Phishing Email Analysis
+I broke down phishing emails to figure out what they were trying to do and where they came from. Sometimes it felt like solving puzzles.
+Tools: MISP, VirusTotal, email header analyzers.
+
+7. Threat Intelligence and IOCs
+I got hands-on with collecting and using threat intel. I learned how to track bad guys using hashes, IPs, domains, and other indicators.
+Tools: YARA, MISP, OpenCTI.
+
+8. IDS/IPS Rule Writing
+I wrote Snort rules to catch or block attacks in real time as they hit the network.
+Tools: Snort.
+
+9. Endpoint Security and Monitoring
+I learned how to monitor endpoint activity and spot strange processes or behaviors before they turned into big problems.
+Tools: Sysinternals Suite, Sysmon, Osquery, Wazuh.
+
+10. Cyber Kill Chain and Pyramid of Pain
+I learned how attackers think and operate across the different stages of an attack. I also learned how to frustrate them by removing their tools and techniques.
+Concepts: Cyber Kill Chain, Pyramid of Pain.
+
+11. Malware Analysis (Basic)
+I learned the basics of how to break down malware files and figure out what they’re designed to do.
+Tools: YARA, Volatility, Redline, VirusTotal.
+
+12. Security Policies and Frameworks
+I got familiar with the major frameworks and standards that guide SOC work and threat hunting (NIST, MITRE ATT&CK, Unified Kill Chain).
+Concepts: NIST, MITRE ATT&CK, Unified Kill Chain.
