@@ -1,0 +1,73 @@
+The Tools I Learned and Used
+
+Here’s a breakdown of the main tools I used along the way. Think of them as my personal SOC toolbox.
+
+Cyber Threat Intelligence Tools
+
+YARA – My go-to for writing rules to hunt down threats.
+
+MISP – Helped me share and pull threat intel from other analysts.
+
+OpenCTI – A solid platform for organizing and managing all that threat intel data.
+
+Network Security and Traffic Analysis
+
+Snort – Helped me analyze network traffic and create IDS/IPS signatures.
+
+NetworkMiner – Great for digging into network forensics and reconstructing traffic.
+
+Zeek (Bro) – Used to monitor traffic and detect weird stuff going on.
+
+Wireshark – The classic packet capture tool. Learned a ton from this one.
+
+TShark – The command-line version of Wireshark when I didn’t want a GUI.
+
+Brim – My sidekick for digging through PCAP files and investigating traffic.
+
+Endpoint Security Monitoring
+
+Sysinternals Suite – Helped me monitor Windows processes and find abnormal activity.
+
+Sysmon – Gave me detailed logs on what’s happening at the system level.
+
+Osquery – Basically let me query an endpoint like a database to check for issues.
+
+Wazuh – Another strong tool for endpoint detection and response.
+
+SIEM (Security Information and Event Management)
+
+Splunk – My bread and butter for searching logs and hunting down incidents.
+
+ELK Stack (Elasticsearch, Logstash, Kibana) – Another powerful tool for log ingestion and visualization.
+
+Digital Forensics and Incident Response (DFIR)
+
+Autopsy – Used to analyze forensic disk images.
+
+Redline – Helped me pull and investigate memory data from endpoints.
+
+Volatility – Dug deep into memory forensics with this one.
+
+Velociraptor – One of my favorites for endpoint monitoring and forensic data collection.
+
+KAPE – Made it easy to gather forensic artifacts off systems.
+
+Phishing Analysis Tools
+
+MISP – Yep, I used this for phishing investigations too.
+
+Email Header Analyzers – Helped me break down email headers and spot spoofing attempts.
+
+URL Scanners (like VirusTotal) – A must for checking if links are sketchy or not.
+
+Miscellaneous Tools
+
+Wireshark and TShark – Still my go-to for traffic analysis.
+
+Brim – Came in handy for PCAP analysis and log reviews.
+
+Velociraptor – Used again for endpoint threat hunting.
+
+Splunk and ELK – Always in the mix for logs and SIEM work.
+
+All these tools gave me a strong foundation in threat hunting, traffic analysis, endpoint security, incident response, and phishing investigation.
