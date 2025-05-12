@@ -1,0 +1,37 @@
+From Beginner to SOC Level 1: My TryHackMe Cybersecurity Journey
+
+When I first stepped into cybersecurity, I had no clue what I was in for. I just knew I wanted to learn how to stop real-world attacks. TryHackMe’s SOC Level 1 path threw me straight into the deep end. It was challenging, it was frustrating at times, but I came out with legit skills that I can actually use.
+
+As a Junior SOC Analyst, my day-to-day was all about monitoring and digging into alerts in a 24/7 environment. I learned how to set up and manage tools, write IDS signatures, and know when to escalate a problem to senior analysts. It wasn’t about checking boxes; it was about figuring out how to actually protect a network.
+
+Learning the Fundamentals
+
+The first thing I tackled was getting a grip on the core frameworks and methodologies that every analyst needs to know. Stuff like the Pyramid of Pain, Cyber Kill Chain, Unified Kill Chain, and Diamond Model. These aren’t just theory—they help you size up what attackers are trying to do and how to block them.
+
+Diving into Threat Intelligence
+
+Next, I started learning how attackers operate. This part was honestly the coolest. Tools like MISP and YARA became my go-to for hunting indicators of compromise. MITRE’s ATT&CK framework helped me break down an attacker’s behavior and figure out what they might do next. It really felt like piecing together a digital crime scene.
+
+Getting Comfortable with Network and Endpoint Monitoring
+
+I spent a ton of time learning how to read network traffic and spot weird patterns. Tools like Wireshark, Snort, Zeek, and TShark taught me how to dig through PCAPs and live traffic. Once I shifted to endpoints, I used Sysinternals and Sysmon to understand what normal activity looks like so I could catch the abnormal stuff fast.
+
+Incident Response in Real Time
+
+The best way to learn incident response? Get hands-on. I used Splunk and ELK every day to search logs, hunt for hidden threats, and understand the full scope of an incident. Then I went even deeper into DFIR (Digital Forensics and Incident Response). I used Autopsy, Redline, Velociraptor, and Volatility to tear apart memory dumps, disk images, and network traffic. That’s where I really gained confidence.
+
+Phishing Analysis
+
+One of the more fun parts was breaking down phishing emails. Using MISP and other tools, I analyzed real-world phishing attempts, picked apart the payloads, and traced the campaigns. I got to test myself on labs like The Greenholt Phish and Snapped Phish-ing Line. It was basically a game of “find the bad stuff.”
+
+The Final Test: Capstone Challenge
+
+The Capstone Challenge was where I had to pull everything together. I had to respond to incidents, investigate memory and disk artifacts, and actually apply all the skills I had built over the course. It felt like a full-on SOC Analyst workout.
+
+Looking Ahead
+
+Finishing TryHackMe’s SOC Level 1 path gave me confidence. I understand how attacks work, I know how to investigate them, and I know how to respond fast. I’m excited to take everything I’ve learned and apply it in a real SOC role. It was intense, but 100% worth it.
+
+Final Thoughts
+
+Cybersecurity is constant problem-solving. The attackers never stop, so you can’t either. It’s a game of outsmarting people who are trying to break stuff. I’m ready to be part of the team that keeps things running safe.
